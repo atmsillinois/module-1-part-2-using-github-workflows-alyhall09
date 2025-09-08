@@ -1,7 +1,22 @@
-# Create a README.md
+# Square Root Caculator 
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+### Description
+This is a beginner Python program that interacts with the user by:
+* Asking the user to input their name and greets them.
+* Asking the user to input a number to determine the square root.
+* Asking the user if they would like to continue the session with another number.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+### Dependencies
+* Python 3
 
-Did you add an open source software license?
+### Executing Program
+1) Make sure Puthon is installed
+2) Save the code in a file
+3) Open a terminal and run program
+4) Input information when prompted
+
+### Author 
+Alissa Hall
+
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
