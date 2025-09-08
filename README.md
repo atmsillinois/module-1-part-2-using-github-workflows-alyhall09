@@ -1,4 +1,4 @@
-# Square Root Caculator 
+# Square Root Calculator 
 
 ### Description
 This is a beginner Python program that interacts with the user by:
